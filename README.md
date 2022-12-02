@@ -1,2 +1,2 @@
 # pointer-sensitivity
-Personal pointer sensitivity for Debian 11 Bullseye
+Pointer sensitivity for Debian 11 Bullseye
